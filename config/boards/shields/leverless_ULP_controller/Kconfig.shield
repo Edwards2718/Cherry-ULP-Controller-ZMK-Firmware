@@ -1,0 +1,2 @@
+config SHIELD_LEVERLESS_ULP_CONTROLLER
+    def_bool $(shields_list_contains,leverless_ULP_controller)

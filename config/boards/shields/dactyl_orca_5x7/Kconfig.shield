@@ -1,2 +1,0 @@
-config SHIELD_DACTYL_ORCA_5x7
-    def_bool $(shields_list_contains,dactyl_orca_5x7)
