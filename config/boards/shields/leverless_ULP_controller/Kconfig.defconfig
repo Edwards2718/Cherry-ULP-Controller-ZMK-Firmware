@@ -1,0 +1,6 @@
+if SHIELD_LEVERLESS_ULP_CONTROLLER
+
+    config ZMK_KEYBOARD_NAME
+        default "Leverless ULP Controller"
+
+endif
