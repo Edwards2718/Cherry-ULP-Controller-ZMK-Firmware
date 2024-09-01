@@ -1,0 +1,8 @@
+file_format: "1"
+id: leverless_ULP_controller
+name: leverless_ULP_controller
+type: shield
+url: https://github.com/Edwards2718/Cherry-ULP-Controller-ZMK-Firmware
+requires: [pro_micro]
+features:
+  - keys
