@@ -18,7 +18,7 @@
             bindings = <
                 &kp ESC   &kp RSHIFT  &kp ENTER &none                
                 &kp N1    &kp N2      &kp N3    &none          
-                &kp LEFT  &kp UP      &kp DOWN  &kp RIGHT          
+                &kp LEFT  &kp UP      &kp RIGHT  &kp DOWN          
                 &kp Q     &kp W       &kp E     &none                                
                 &kp A     &kp S       &kp D     &kp F  
                 &kp Z     &kp X       &kp C     &kp V                                    
